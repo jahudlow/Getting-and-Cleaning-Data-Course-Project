@@ -11,6 +11,7 @@ activity
 - SITTING
 - STANDING
 - LAYING
+
 timeBodyAccelerometer-mean()-X
 timeBodyAccelerometer-mean()-Y
 timeBodyAccelerometer-mean()-Z
