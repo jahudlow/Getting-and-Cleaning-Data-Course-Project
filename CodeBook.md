@@ -4,6 +4,7 @@ The tidy data set resulting from the run_analysis.R script includes features whi
 
 subject
 - the ID
+
 activity
 - WALKING
 - WALKING_UPSTAIRS
@@ -13,9 +14,13 @@ activity
 - LAYING
 
 timeBodyAccelerometer-mean()-X
+
 timeBodyAccelerometer-mean()-Y
+
 timeBodyAccelerometer-mean()-Z
+
 timeBodyAccelerometer-standardDeviation()-X
+
 timeBodyAccelerometer-standardDeviation()-Y
 timeBodyAccelerometer-standardDeviation()-Z
 timeGravityAccelerometer-mean()-X
